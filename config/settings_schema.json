@@ -4,8 +4,8 @@
     "theme_name": "Ervinne Demo",
     "theme_version": "0.0.1",
     "theme_author": "Ervinne Sodusta",
-    "theme_documentation_url": "https://help.shopify.com/manual/online-store/themes",
-    "theme_support_url": "https://support.shopify.com/"
+    "theme_documentation_url": "https:\/\/help.shopify.com\/manual\/online-store\/themes",
+    "theme_support_url": "https:\/\/support.shopify.com\/"
   },
   {
     "name": "t:settings_schema.colors.name",
